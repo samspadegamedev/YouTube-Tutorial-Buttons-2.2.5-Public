@@ -1,23 +1,23 @@
 {
-    "id": "94c8ae0c-0bef-40fe-9e77-b292f722291c",
+    "id": "5ca7945b-225d-44bd-91b7-9a521bca85e6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_how_are_you",
+    "name": "obj_goodbye_button",
     "eventList": [
         {
-            "id": "dd7179b1-201c-4975-8182-2ecb583315cc",
+            "id": "8f6e59ed-3a6b-4861-a3b8-25c440002d2e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 10,
             "eventtype": 7,
-            "m_owner": "94c8ae0c-0bef-40fe-9e77-b292f722291c"
+            "m_owner": "5ca7945b-225d-44bd-91b7-9a521bca85e6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "963528ab-ea64-47c9-91fe-5be131fa18ed",
+    "parentObjectId": "fbfc3f33-5e9d-4920-b11b-7165a5302064",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

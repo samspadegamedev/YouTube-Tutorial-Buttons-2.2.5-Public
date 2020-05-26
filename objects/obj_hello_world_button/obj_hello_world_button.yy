@@ -2,7 +2,7 @@
     "id": "6b273bbb-bf9f-4bdf-9e4b-bad7e17b0733",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hello_world",
+    "name": "obj_hello_world_button",
     "eventList": [
         {
             "id": "ab8b3486-261f-44a0-91ff-d705a4eba308",

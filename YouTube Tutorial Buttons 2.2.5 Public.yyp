@@ -90,7 +90,7 @@
             "Key": "5ca7945b-225d-44bd-91b7-9a521bca85e6",
             "Value": {
                 "id": "8026fd86-fa51-4ab8-acf2-3daaa65b425d",
-                "resourcePath": "objects\\obj_goodbye\\obj_goodbye.yy",
+                "resourcePath": "objects\\obj_goodbye_button\\obj_goodbye_button.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -106,7 +106,7 @@
             "Key": "6b273bbb-bf9f-4bdf-9e4b-bad7e17b0733",
             "Value": {
                 "id": "3fe1a838-0704-4f4e-9b5b-6603a7e29432",
-                "resourcePath": "objects\\obj_hello_world\\obj_hello_world.yy",
+                "resourcePath": "objects\\obj_hello_world_button\\obj_hello_world_button.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "94c8ae0c-0bef-40fe-9e77-b292f722291c",
             "Value": {
                 "id": "9f2fd5ba-857d-4ecc-9f5b-8a831181a498",
-                "resourcePath": "objects\\obj_how_are_you\\obj_how_are_you.yy",
+                "resourcePath": "objects\\obj_how_are_you_button\\obj_how_are_you_button.yy",
                 "resourceType": "GMObject"
             }
         },
