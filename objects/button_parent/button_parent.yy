@@ -65,6 +65,48 @@
             "value": "True",
             "varName": "active",
             "varType": 3
+        },
+        {
+            "id": "7fd8fb19-120c-4cde-abf3-b4f7dee20a50",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 4,
+            "value": "snd_active",
+            "varName": "active_sound",
+            "varType": 5
+        },
+        {
+            "id": "535de918-4169-41a7-b271-fc8a39a7afc7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 4,
+            "value": "snd_inactive",
+            "varName": "inactive_sound",
+            "varType": 5
+        },
+        {
+            "id": "4861e433-e4cd-4682-b0b5-e4a65508612e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 4,
+            "value": "snd_select",
+            "varName": "select_sound",
+            "varType": 5
         }
     ],
     "solid": false,

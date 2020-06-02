@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "60b66e66-aba8-4ea9-b93b-066674fecad8",
+            "Value": {
+                "id": "d19795d4-77ff-4777-a7eb-f2130bc56159",
+                "resourcePath": "sounds\\snd_active\\snd_active.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "697c0a98-627e-4656-a574-39a812640205",
             "Value": {
                 "id": "1d8a2a72-3d75-49e4-bba3-d9fee0c42c39",
@@ -231,11 +239,27 @@
             }
         },
         {
+            "Key": "a588c9bb-741a-4cb8-b091-cf4df320c7b3",
+            "Value": {
+                "id": "53822f57-1fa7-4a94-8939-490464d00c15",
+                "resourcePath": "sounds\\snd_select\\snd_select.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "c7b3001d-fc64-4ce6-8a2c-26cf7a920297",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b43c234e-85d3-43f9-a5fb-d658df3e44fd",
+            "Value": {
+                "id": "5f418fd9-69d1-45ba-952d-2eb3da33ed3e",
+                "resourcePath": "sounds\\snd_inactive\\snd_inactive.yy",
+                "resourceType": "GMSound"
             }
         },
         {
