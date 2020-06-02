@@ -10,14 +10,14 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
+            "enumb": 11,
             "eventtype": 7,
             "m_owner": "5ca7945b-225d-44bd-91b7-9a521bca85e6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "fbfc3f33-5e9d-4920-b11b-7165a5302064",
+    "parentObjectId": "963528ab-ea64-47c9-91fe-5be131fa18ed",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
