@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0575dbf9-7c3c-4b28-b26d-6ad49c8c4a1d",
+            "Value": {
+                "id": "c27b62df-0953-4a4f-9a95-5303f883f3bd",
+                "resourcePath": "sprites\\spr_toggle_button\\spr_toggle_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10d2cc05-6e44-417b-bd15-5f821235c82d",
             "Value": {
                 "id": "c05bc3a0-2c24-4f3c-8513-d61b5d07f786",
@@ -44,6 +52,14 @@
                 "id": "c663c9e0-965a-477f-87ab-462863946ce1",
                 "resourcePath": "views\\19625a1e-4f2f-4c0e-82ed-d09a45d93a6f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2140f617-afdb-40a8-b483-40cc7c4177d3",
+            "Value": {
+                "id": "0ab88da3-0242-4419-9fdc-65ecd174cc99",
+                "resourcePath": "objects\\obj_toggle_button\\obj_toggle_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -132,6 +148,14 @@
                 "id": "41a96e64-e291-4058-bad3-173ff124db9d",
                 "resourcePath": "views\\7870528e-9dfb-4587-8353-9db00a3e551f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7d3aef4d-e255-47c6-8a9c-dabd8041d867",
+            "Value": {
+                "id": "2040e723-0f17-4519-a0c1-9ce3230d453c",
+                "resourcePath": "objects\\toggle_parent\\toggle_parent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
