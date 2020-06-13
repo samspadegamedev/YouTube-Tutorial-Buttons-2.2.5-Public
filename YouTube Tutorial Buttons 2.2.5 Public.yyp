@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2640b8d9-d579-4763-8a8f-51fba8fac2f8",
+            "Value": {
+                "id": "37701cef-933b-43ee-a847-8c6a60353236",
+                "resourcePath": "views\\2640b8d9-d579-4763-8a8f-51fba8fac2f8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "34cb92f1-727d-4f77-b31a-143eaf30f02a",
             "Value": {
                 "id": "ec261330-e7c8-440a-a21b-4e536ed3b176",
@@ -76,6 +84,14 @@
                 "id": "0b54c5d9-cc7a-47fb-8c63-3f7ea7fe833f",
                 "resourcePath": "views\\405e17f3-5197-45c3-ae71-bc5d1f6d0c6b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4676f1c5-3b43-447c-9c71-feeb8de7a02c",
+            "Value": {
+                "id": "a606ec78-4004-43d2-95ed-21def9f08deb",
+                "resourcePath": "scripts\\return_button_id\\return_button_id.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -131,6 +147,14 @@
             "Value": {
                 "id": "3fe1a838-0704-4f4e-9b5b-6603a7e29432",
                 "resourcePath": "objects\\obj_hello_world_button\\obj_hello_world_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7060329d-faf9-4dd9-9560-9d91c7f2fa6c",
+            "Value": {
+                "id": "b553d2f6-3602-4797-8d3a-8cbe33cd9317",
+                "resourcePath": "objects\\mouse_manager\\mouse_manager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -327,11 +351,35 @@
             }
         },
         {
+            "Key": "d62dd1cf-8f6f-4bbe-b8eb-97e5f8e6e08b",
+            "Value": {
+                "id": "7d673183-e5a1-424b-bb50-5e84cb787e34",
+                "resourcePath": "scripts\\set_button_selected\\set_button_selected.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "a0dc09a3-a6e0-4342-9f8a-a52c1ef4117a",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e7f936b6-e26c-41f5-8287-677e5309af84",
+            "Value": {
+                "id": "fa0542ba-e56f-4ff5-a8b9-1ea3d173cac1",
+                "resourcePath": "scripts\\button_is_selected\\button_is_selected.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eb0fd364-4d6a-409e-b698-0f956fff063f",
+            "Value": {
+                "id": "70c4ab2b-714d-48bc-9a57-fd5f895e33b9",
+                "resourcePath": "views\\eb0fd364-4d6a-409e-b698-0f956fff063f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -352,7 +400,9 @@
         }
     ],
     "script_order": [
-        
+        "4676f1c5-3b43-447c-9c71-feeb8de7a02c",
+        "e7f936b6-e26c-41f5-8287-677e5309af84",
+        "d62dd1cf-8f6f-4bbe-b8eb-97e5f8e6e08b"
     ],
     "tutorial": ""
 }
