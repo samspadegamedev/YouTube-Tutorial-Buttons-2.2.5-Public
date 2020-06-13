@@ -287,6 +287,22 @@
             }
         },
         {
+            "Key": "bad44308-4c0a-48e4-a4a5-e5360944c8b5",
+            "Value": {
+                "id": "96746af6-95e3-4dac-91ff-38d1977e8aac",
+                "resourcePath": "objects\\obj_horizontal_slider\\obj_horizontal_slider.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c141b0f4-3378-4613-ba8c-d59dff427f58",
+            "Value": {
+                "id": "2f42fdaf-45bb-4719-8fb8-ac9b5a7844ad",
+                "resourcePath": "objects\\grabable_parent\\grabable_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "e1f69043-3114-4d06-9f78-1ca62c853c3c",
