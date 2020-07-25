@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3b340eee-d60a-45cc-8c03-78dafa244393",
+            "Value": {
+                "id": "bce5dfd9-9696-4799-ada9-bf1462e91009",
+                "resourcePath": "views\\3b340eee-d60a-45cc-8c03-78dafa244393.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "405e17f3-5197-45c3-ae71-bc5d1f6d0c6b",
             "Value": {
                 "id": "0b54c5d9-cc7a-47fb-8c63-3f7ea7fe833f",
@@ -167,11 +175,27 @@
             }
         },
         {
+            "Key": "7371ec18-5b50-4bfc-8998-91b3355c1d36",
+            "Value": {
+                "id": "9d580db8-254b-4348-b488-32fb76191b80",
+                "resourcePath": "objects\\button_graph_parent\\button_graph_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7870528e-9dfb-4587-8353-9db00a3e551f",
             "Value": {
                 "id": "41a96e64-e291-4058-bad3-173ff124db9d",
                 "resourcePath": "views\\7870528e-9dfb-4587-8353-9db00a3e551f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7a2ce8a2-d6a1-48f5-b281-a42f74e0aece",
+            "Value": {
+                "id": "5b96f438-86d6-4e4a-8bc4-7365e847e8c3",
+                "resourcePath": "scripts\\button_graph_add_node\\button_graph_add_node.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -303,6 +327,14 @@
             }
         },
         {
+            "Key": "aff70c60-1591-473a-be88-0af619380774",
+            "Value": {
+                "id": "92055e11-0278-4295-ae46-1e38c6357733",
+                "resourcePath": "scripts\\button_graph_traverse\\button_graph_traverse.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b43c234e-85d3-43f9-a5fb-d658df3e44fd",
             "Value": {
                 "id": "5f418fd9-69d1-45ba-952d-2eb3da33ed3e",
@@ -324,6 +356,14 @@
                 "id": "2f42fdaf-45bb-4719-8fb8-ac9b5a7844ad",
                 "resourcePath": "objects\\grabable_parent\\grabable_parent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c79b40a4-55e1-4ac2-8540-3cd975521cd8",
+            "Value": {
+                "id": "2519e7c7-9c0f-4635-9c8c-10823bacb513",
+                "resourcePath": "views\\c79b40a4-55e1-4ac2-8540-3cd975521cd8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -356,6 +396,14 @@
                 "id": "7d673183-e5a1-424b-bb50-5e84cb787e34",
                 "resourcePath": "scripts\\set_button_selected\\set_button_selected.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d8405ed2-3977-4e41-a452-c2f6d0af7b97",
+            "Value": {
+                "id": "8adb5298-b720-435a-b51e-423e6200b50c",
+                "resourcePath": "objects\\obj_menu_button_graph\\obj_menu_button_graph.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -397,12 +445,23 @@
                 "resourcePath": "objects\\double_tap_button_parent\\double_tap_button_parent.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "ff4e78e3-f8ba-41b7-9a46-11d7e23a50da",
+            "Value": {
+                "id": "5e50ce8c-5214-4e2e-b42d-9afeffbebfa4",
+                "resourcePath": "scripts\\button_graph_add_edge\\button_graph_add_edge.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
         "4676f1c5-3b43-447c-9c71-feeb8de7a02c",
         "e7f936b6-e26c-41f5-8287-677e5309af84",
-        "d62dd1cf-8f6f-4bbe-b8eb-97e5f8e6e08b"
+        "d62dd1cf-8f6f-4bbe-b8eb-97e5f8e6e08b",
+        "7a2ce8a2-d6a1-48f5-b281-a42f74e0aece",
+        "ff4e78e3-f8ba-41b7-9a46-11d7e23a50da",
+        "aff70c60-1591-473a-be88-0af619380774"
     ],
     "tutorial": ""
 }
